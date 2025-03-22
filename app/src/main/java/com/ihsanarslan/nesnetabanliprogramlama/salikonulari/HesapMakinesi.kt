@@ -1,4 +1,4 @@
-package com.ihsanarslan.nesnetabanliprogramlama
+package com.ihsanarslan.nesnetabanliprogramlama.salikonulari
 
 
 class HesapMakinesi {

@@ -1,4 +1,4 @@
-package com.ihsanarslan.nesnetabanliprogramlama
+package com.ihsanarslan.nesnetabanliprogramlama.salikonulari
 
 // Basit bir öğrenci sınıfı
 class Ogrenci(val ad: String, val soyad: String, var sinif: Int) {

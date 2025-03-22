@@ -1,4 +1,4 @@
-package com.ihsanarslan.nesnetabanliprogramlama
+package com.ihsanarslan.nesnetabanliprogramlama.salikonulari
 
 
 class Araba(val marka: String, val model: String, val renk: String, val beygirGucu : Int) {

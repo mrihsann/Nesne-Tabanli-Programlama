@@ -1,4 +1,4 @@
-package com.ihsanarslan.nesnetabanliprogramlama
+package com.ihsanarslan.nesnetabanliprogramlama.salikonulari
 
 
 class Hayvan(val tur: String, val isim: String, var yas: Int) {
